@@ -36,7 +36,9 @@ The dataset for this project comes from a dual-choice bioassay designed to evalu
 ├── Project_Priya.Rproj
 ├── Project_Priya.docx
 ├── Project_Priya.html
+├── Project_Priya.log
 ├── Project_Priya.md
+├── Project_Priya.tex
 ├── Project_Priya_files
 │   └── figure-gfm
 │       ├── fig-eggs-1.png
