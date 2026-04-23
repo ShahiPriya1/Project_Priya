@@ -30,7 +30,7 @@ The dataset for this project comes from a dual-choice bioassay designed to evalu
 
 
 ## File tree
----
+```
 ├── Project_Priya.R
 ├── Project_Priya.Rmd
 ├── Project_Priya.Rproj
@@ -44,7 +44,7 @@ The dataset for this project comes from a dual-choice bioassay designed to evalu
 │       └── fig-pi-1.png
 ├── Project_data.csv
 └── README.md
----
+```
 
 ##  Software Requirements
 
